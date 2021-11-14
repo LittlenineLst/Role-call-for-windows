@@ -1,0 +1,45 @@
+D:\Documents\Visual Studio 2010\Projects\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe
+D:\Documents\Visual Studio 2010\Projects\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.pdb
+D:\Documents\Visual Studio 2010\Projects\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.Form2.resources
+D:\Documents\Visual Studio 2010\Projects\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.exe
+D:\Documents\Visual Studio 2010\Projects\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.pdb
+C:\Documents and Settings\Administrator\桌面\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe.config
+C:\Documents and Settings\Administrator\桌面\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.exe
+C:\Documents and Settings\Administrator\桌面\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.pdb
+C:\Documents and Settings\Administrator\桌面\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe
+C:\Documents and Settings\Administrator\桌面\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.pdb
+C:\Documents and Settings\Administrator\桌面\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.Form1.resources
+C:\Documents and Settings\Administrator\桌面\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.Form2.resources
+C:\Documents and Settings\Administrator\桌面\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\StudentInfoApplication\StudentInfoApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\完成\点名程序\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe.config
+E:\C#\完成\点名程序\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.exe
+E:\C#\完成\点名程序\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.pdb
+E:\C#\完成\点名程序\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe
+E:\C#\完成\点名程序\StudentInfoApplication\bin\Debug\StudentInfoApplication.pdb
+E:\C#\完成\点名程序\StudentInfoApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\完成\点名程序\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.Form1.resources
+E:\C#\完成\点名程序\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.Form2.resources
+E:\C#\完成\点名程序\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.Properties.Resources.resources
+E:\C#\完成\点名程序\StudentInfoApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#\完成\点名程序\StudentInfoApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\name\1\点名程序\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe.config
+D:\name\1\点名程序\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe
+D:\name\1\点名程序\StudentInfoApplication\bin\Debug\StudentInfoApplication.pdb
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.csprojAssemblyReference.cache
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.Form1.resources
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.Form2.resources
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.Properties.Resources.resources
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.csproj.GenerateResource.cache
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.csproj.CoreCompileInputs.cache
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.exe
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Debug\StudentInfoApplication.pdb

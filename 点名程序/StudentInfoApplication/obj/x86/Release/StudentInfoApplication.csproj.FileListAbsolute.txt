@@ -1,0 +1,10 @@
+D:\name\1\点名程序\StudentInfoApplication\bin\Release\StudentInfoApplication.exe.config
+D:\name\1\点名程序\StudentInfoApplication\bin\Release\StudentInfoApplication.exe
+D:\name\1\点名程序\StudentInfoApplication\bin\Release\StudentInfoApplication.pdb
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Release\StudentInfoApplication.Form1.resources
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Release\StudentInfoApplication.Form2.resources
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Release\StudentInfoApplication.Properties.Resources.resources
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Release\StudentInfoApplication.csproj.GenerateResource.cache
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Release\StudentInfoApplication.csproj.CoreCompileInputs.cache
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Release\StudentInfoApplication.exe
+D:\name\1\点名程序\StudentInfoApplication\obj\x86\Release\StudentInfoApplication.pdb
